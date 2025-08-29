@@ -17,5 +17,6 @@ setup(
     author="gangadhar",
     author_email="s210267@rguktsklm.ac.in",
     packages=find_packages(),
-    install_requires=get_requirements("requirements.txt"),
+    install_requires=get_requirements("requirements.txt")
+
 )
